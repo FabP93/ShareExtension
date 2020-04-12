@@ -34,8 +34,6 @@
 		<string>MainInterface</string>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.share-services</string>
-		<key>New item</key>
-		<string></string>
 	</dict>
 </dict>
 </plist>

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1999E4DA2441FBF80081E60B"
-               BuildableName = "ShareExtensionProject.app"
+               BuildableName = "MainProject.app"
                BlueprintName = "MainProject"
                ReferencedContainer = "container:MainProject.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1999E4DA2441FBF80081E60B"
-            BuildableName = "ShareExtensionProject.app"
+            BuildableName = "MainProject.app"
             BlueprintName = "MainProject"
             ReferencedContainer = "container:MainProject.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1999E4DA2441FBF80081E60B"
-            BuildableName = "ShareExtensionProject.app"
+            BuildableName = "MainProject.app"
             BlueprintName = "MainProject"
             ReferencedContainer = "container:MainProject.xcodeproj">
          </BuildableReference>
